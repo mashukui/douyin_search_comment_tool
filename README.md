@@ -1,5 +1,5 @@
 # douyin_search_comment_tool
-> _用python开发的抖音评论采集软件，支持通过搜索关键词和作品链接两种方式采集评论。_
+> _马哥原创：用python开发的抖音评论采集软件，支持通过搜索关键词和作品链接两种方式采集评论。_
 
 # 一、背景分析
 ## 1.1 开发背景
@@ -14,20 +14,12 @@
 
 可按需选择其中一种模式，进行评论采集。
 ## 1.2 软件界面
-软件界面，如下：
-运行截图1:  
-![运行截图1](https://files.mdnice.com/user/32110/cb225573-b41c-4b8a-bce5-9b61115eabe0.png)
-
-
-运行截图2:  
-![运行截图2](https://files.mdnice.com/user/32110/1617b4c9-7648-406d-93a7-210e13537aa8.png)
+软件界面，如下：(目前升至v1.4版)<img width="1700" height="1376" alt="抖音搜索评论v1 4" src="https://github.com/user-attachments/assets/206798fd-a472-464a-bdd8-d967bb05d0fc" />
 
 
 ## 1.3 结果展示
-爬取结果1-笔记数据：
-![笔记数据.csv](https://files.mdnice.com/user/32110/8556e477-53bb-46d8-96c2-4ffd3d0a5185.png)
-
-
+爬取结果1-作品数据：
+![作品数据.csv](https://files.mdnice.com/user/32110/8556e477-53bb-46d8-96c2-4ffd3d0a5185.png)
 
 爬取结果2-评论数据：
 ![评论数据.csv](https://files.mdnice.com/user/32110/8819ab00-dc4e-43c1-982d-a7a8bcb50f56.png)
@@ -41,7 +33,7 @@
 
 几点重要说明，请详读了解：
 ```python
-1. Windows用户可直接双击打开使用，无需Python运行环境，非常方便！ 
+1. win电脑和mac电脑均可运行，非常方便！ 
 2. 软件通过接口协议爬取，并非通过模拟浏览器等RPA类工具，稳定性较高！ 
 3. 先在cookie.txt中填入自己的cookie值，方便重复使用（内附cookie获取方法） 
 4. 支持筛选：排序方式（综合排序/最新发布/最多点赞）和发布时间（不限/一天内/一周内/半年内） 
