@@ -26,7 +26,7 @@
 
 
 ## 1.4 演示视频
-软件运行演示视频：[【软件演示】抖音评论区采集工具，支持2种模式：指定关键词和指定作品链接](https://​www.bilibili.com/video/BV1fH21YEEDV)
+软件运行演示视频：[【软件演示】抖音评论区采集工具，支持2种模式：指定关键词和指定作品链接](https://mp.weixin.qq.com/s/pUcmYYmXPiZ6dSKVwrX8wQ)
 
 
 ## 1.5 软件说明
