@@ -5,7 +5,7 @@
 # 一、背景分析
 ## 1.1 开发背景
 
-![采集目标](https://files.mdnice.com/user/32110/6686b2fd-182a-4311-aa22-8cd2a3fd131f.png)
+![采集目标](images/dsc_01.png)
 
 众所周知，抖音是国内流量最为突出的短视频平台，拥有庞大的用户群体和超过亿级的日活跃用户。尤其是视频下方的评论区，蕴含着大量的挖掘潜力。通过收集抖音的评论数据，客户可以更深入地了解消费者对商品和品牌的看法与反馈，从而更有效地掌握消费者的喜好、需求和购买意图。
 
@@ -20,10 +20,10 @@
 
 ## 1.3 结果展示
 爬取结果1-作品数据：
-![作品数据.csv](https://files.mdnice.com/user/32110/8556e477-53bb-46d8-96c2-4ffd3d0a5185.png)
+![作品数据.csv](images/dsc_02.png)
 
 爬取结果2-评论数据：
-![评论数据.csv](https://files.mdnice.com/user/32110/8819ab00-dc4e-43c1-982d-a7a8bcb50f56.png)
+![评论数据.csv](images/dsc_03.png)
 
 
 ## 1.4 演示视频
@@ -61,7 +61,7 @@ logging：日志记录
 ## 3.0 填写cookie
 开始采集前，先把自己的cookie值填入cookie.txt文件。
 cookie获取方法：
-![cookie获取方法](https://files.mdnice.com/user/32110/fb4ad3ae-c817-4e7f-a020-5b9ccfc514b1.png)
+![cookie获取方法](images/dsc_04.png)
 
 ## 3.1 根据关键词爬评论
 > 爬取思路：作品关键词->作品链接->评论
